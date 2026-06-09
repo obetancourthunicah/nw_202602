@@ -1,0 +1,16 @@
+{
+    "name": "unicah/poop1",
+    "description": "Ejercicios de Programación Orientada a Objetos en PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Unicah\\Poop1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Orlando Betancourth"
+        }
+    ],
+    "require": {}
+}
